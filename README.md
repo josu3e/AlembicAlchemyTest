@@ -3,7 +3,7 @@
 En este repositorio pretendo hacer un ejemplo basico de como versionar los cambios en nuestra BD usando Alembic, SqlAchemy y como motor de BD Mysql.
 #### Clonar el repositorio
 ```
-git clone https://github.com/josu3e/alchemyTest.git
+git clone https://github.com/josu3e/AlembicAlchemyTest.git
 cd alchemyTest/
 ```
 #### Entorno virtual

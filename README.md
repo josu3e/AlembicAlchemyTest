@@ -6,6 +6,11 @@ En este repositorio pretendo hacer un ejemplo basico de como versionar los cambi
 git clone https://github.com/josu3e/AlembicAlchemyTest.git
 cd alchemyTest/
 ```
+#### Dependencias del host
+Es necesario tener instalado libmysqlclient-dev
+```
+sudo apt-get install -y libmysqlclient-dev
+```
 #### Entorno virtual
 Para ello ejecutamos los siguientes comandos, y obtenemos un contenedor para nuestras dependencias agregadas en el archivo `requirements.txt`:
 ```
